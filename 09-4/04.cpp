@@ -50,7 +50,6 @@ public:
 };
 
 int main() {
-    cout << "\n--- 몬스터 1: 오크 ---" << endl;
     Ork Ork1;
     Ork1.get_stats();
 
